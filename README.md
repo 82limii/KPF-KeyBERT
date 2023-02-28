@@ -24,7 +24,7 @@ MMR이란 검색 엔진 내에서 본문 검색(text retreival) 관련하여 검
 ### KeyBERT 관련 논문 및 사용 소스 
 
 - 논문:  [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings](https://arxiv.org/abs/1801.04470)
-- KPF-SBERT: [kpfSBERT](https://github.com/KPFBERT/kpfSBERT)
+- SBERT: [kpfSBERT](https://github.com/KPFBERT/kpfSBERT)
 - 형태소분석기: [Bareun-NLP_PY](https://github.com/KPF-bigkinds/Bareun-NLP_PY)
 
 ---
