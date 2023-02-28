@@ -43,9 +43,9 @@ MMR이란 검색 엔진 내에서 본문 검색(text retreival) 관련하여 검
 ---
 ## Usage
 
-1. BERT
+1. SBERT
 
-    kpfSBERT 모델을 다운받아 아래의 디렉토리에 넣어주고 fine-tuning을 진행한다.
+    kpfSBERT 모델을 다운받아 아래의 디렉토리에 넣어 문서 .
 
     - `kpfSBERT` 다운받은 kpfSBERT 화일들이 위치할 곳
 
